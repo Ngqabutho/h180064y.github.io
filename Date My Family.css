@@ -1,0 +1,22 @@
+header
+{
+  font-size: 40px;
+  font-style: normal;
+  color: purple;
+  font-family: cursive;
+}
+
+body
+{
+  background-image: url("cupid 3.jpg");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+
+  align-items: center;
+}
+
+section1
+{
+  padding-left: 200px;
+}
